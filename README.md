@@ -38,4 +38,9 @@ This could also be expanded to apply recommendations across content types using 
 
 Machine Learning Project—Data Science Movie Recommendation System Project in R. (2019, July 27). DataFlair. https://data-flair.training/blogs/data-science-r-movie-recommendation/
 
+Stack Overflow—Where Developers Learn, Share, & Build Careers. (n.d.). Stack Overflow. Retrieved December 6, 2021, from https://stackoverflow.com/
+
+IMDB-Dataset.zip—Google Drive. (n.d.). Retrieved December 6, 2021, from https://drive.google.com/file/d/1Dn1BZD3YxgBQJSIjbfNnmCFlDW2jdQGD/view
+
+
 
