@@ -2,7 +2,7 @@
 # Each group hands in 1) their question and a concise context description (1/2-1 page), 2) an outline of the workflow of your project (1/2 page) and 3) a summary of the results.This has to be stored on the GitHub wiki page of your Big Data Challenge repository.  
 
 Group 2: Jacob, Sacha, Sofia, Tristan - Big Data Challenge
-
+https://docs.google.com/presentation/d/15wcCqO0x5FEu794siyjRMdmIJB8dVpT-MkCo2LNctH8/edit?usp=sharing
 # Question: 
 Can we use user data from Netflix to generate movie reccomendations, and can we then use the data to see trends in content consumed at differnt times of the year. 
 
